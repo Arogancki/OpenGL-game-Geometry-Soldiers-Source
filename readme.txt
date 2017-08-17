@@ -1,24 +1,26 @@
 Geometry Soldiers
 by Artur Ziemba
 written with opengl, irrklang
-source files are private
 
+// EN
+Choose 1 of 3 heroes (sapper, barbarian, soldier) and 1 of 2 game modes, survive as long as you can and kill that many enemies. Upgrade your character during the game or heal yourself to stay longer.
 
-Gra polega na jak najd³u¿szym prze¿yciu i pokonaniu jak najwiêkszej iloœci przeciwników.
+// PL
+Gra polega na jak najdÅ‚uÅ¼szym przeÅ¼yciu i pokonaniu jak najwiÄ™kszej iloÅ›ci przeciwnikÃ³w.
 
 W grze mamy do wyboru 2 tryby:
-Samotnik - sami konta reszta œwiata
-Sojusznicy - gracz walczy w dru¿ynie przeciwko 2 innym
+Samotnik - sami konta reszta Å›wiata
+Sojusznicy - gracz walczy w druÅ¼ynie przeciwko 2 innym
 
-Klasy dostêpne w grze:
+Klasy dostÄ™pne w grze:
 Saper - atak bombami
-Barabarzyñca - atak gwoŸdzieniem
-¯o³nierz - atak karabinem
+BarabarzyÅ„ca - atak gwoÅºdzieniem
+Å»oÅ‚nierz - atak karabinem
 
-W trakcie gry rozwijamy swoj¹ postaæ, poprzez wydawanie zdobytych punktów pod wzglêdem si³y ataku, iloœci ¿ycia. 
-Mamy równierz opcje leczenia postaci.
+W trakcie gry rozwijamy swojÄ… postaÄ‡, poprzez wydawanie zdobytych punktÃ³w pod wzglÄ™dem siÅ‚y ataku, iloÅ›ci Å¼ycia. 
+Mamy rÃ³wnierz opcje leczenia postaci.
 
-Rozmieszczenie, kolory przeciwników, zagêszczenie drzew, jest generowane losowo.
-Mapa jest nieskoñczenie du¿a - mo¿na graæ bez koñca i bez ograniczeñ!
+Rozmieszczenie, kolory przeciwnikÃ³w, zagÄ™szczenie drzew, jest generowane losowo.
+Mapa jest nieskoÅ„czenie duÅ¼a - moÅ¼na graÄ‡ bez koÅ„ca i bez ograniczeÅ„!
 
 Sterowanie - karta pomoc w grze
